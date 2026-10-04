@@ -1,0 +1,5 @@
+all these job files are the spark tasks that are going to be executed , 
+
+the hive-site.xml file is the hive-metastore container conf hive file 
+
+the hive-site.xml in the root directory of the project is the spark file 
